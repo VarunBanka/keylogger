@@ -3,11 +3,29 @@
 A simple yet powerful keylogger made using python
 
 
+## Index
+
+<a href="https://github.com/VarunBanka/keylogger#disclaimer">Disclaimer</a>
+
+<a href="https://github.com/VarunBanka/keylogger#what-is-a-keylogger">What is a keylogger?</a>
+
+<a href="https://github.com/VarunBanka/keylogger#requirements">Requirements</a>
+
+<a href="Installation of requirements">Installation of requirements</a>
+
+<a href="https://github.com/VarunBanka/keylogger#usage">Usage</a>
+
+
 ## Disclaimer
 
 This is made for fun only, do NOT use this for un-ethical purposes and if you do, I'm not responsible
 
 NOT TO MENTION THE FACT THAT IF YOU WILL SEND THIS TO HACKER VARUN, HE WILL HELP YOU CHANGING YOUR SOCIAL MEDIA ACCOUNT'S PASSWORD AND TELL YOU YOUR IP ADDRESS FOR FREE
+
+
+## What is a keylogger?
+
+Google it xd, apaet from jokes, "Keyloggers or keystroke loggers are software programs or hardware devices that track the activities (keys pressed) of a keyboard. Keyloggers are a form of spyware where users are unaware their actions are being tracked."
 
 
 ## Requirements
@@ -19,11 +37,6 @@ NOT TO MENTION THE FACT THAT IF YOU WILL SEND THIS TO HACKER VARUN, HE WILL HELP
 3. Python
 
 4. And some modules
-
-
-## What is a keylogger?
-
-Google it xd, apaet from jokes, "Keyloggers or keystroke loggers are software programs or hardware devices that track the activities (keys pressed) of a keyboard. Keyloggers are a form of spyware where users are unaware their actions are being tracked."
 
 
 ## Installation of requirements
@@ -53,7 +66,7 @@ pip install requests
 
 ## Usage
 
-<a href="#">Download one file by clicking here</a>
+<a href="https://github.com/VarunBanka/keylogger/archive/refs/heads/main.zip">Download one file by clicking here</a>
 
 Extract it
 
